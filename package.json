@@ -1,0 +1,13 @@
+{
+  "name": "rpn-lportell",
+  "version": "1.0.0",
+  "description": "Converts and infix expression to postfix and evaluates",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node main.js",
+    "build": "node __init__.js"
+  },
+  "author": "lportell",
+  "license": "UNLICENSED"
+}
